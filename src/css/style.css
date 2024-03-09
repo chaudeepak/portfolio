@@ -1,0 +1,10 @@
+.navbar{
+    --bs-navbar-hover-color: rgba(88, 24 , 69, 0.8) !important;
+    --bs-navbar-active-color: rgba(var(var(--bs-navbar-hover-color), 1)) !important;
+}
+
+.bg-body-tertiary {
+    /* background-color: rgb(var112, 123, 124) !important; */
+    background-color: #D5D8DC !important;
+
+}

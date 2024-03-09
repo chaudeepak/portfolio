@@ -1,0 +1,10 @@
+p{
+    color: #000 !important;
+}
+.progress{
+    --bs-progress-bar-bg: #052e6b !important;
+    --bs-progress-bar-color: rgba(255, 255, 255, 0) !important;
+    
+
+
+}
