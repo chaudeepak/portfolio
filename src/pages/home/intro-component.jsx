@@ -19,11 +19,11 @@ const Intro = () => {
     }
     return(<>
         <Container style={bg} id="home" fluid>
-            <Row className="mb-12">
-                <Col className="mt-12" md={{offset: 1}}>
-                    <p style={p}>Hi I am Deepak Chaudhary</p>
+            <Row className="mb-12" style={{textAlign: 'center'}}>
+                <Col className="mt-12" style={{marginTop: '12px !important'}}>
+                    <p style={{color: '#FFF !important'}}>Hi I am Deepak Chaudhary</p>
                     <br/>
-                    <p style={p}>UI/UX Designer</p>
+                    <p style={{color: 'white !important'}}>UI/UX Designer</p>
                     
                 </Col>
             </Row>
